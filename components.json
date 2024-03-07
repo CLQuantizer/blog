@@ -4,7 +4,7 @@
   "tailwind": {
     "config": "tailwind.config.ts",
     "css": "src/routes/styles.css",
-    "baseColor": "neutral"
+    "baseColor": "slate"
   },
   "aliases": {
     "components": "$lib/components",
